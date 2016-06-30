@@ -22,9 +22,9 @@
 <li>Height: 93 lines</li>
 </ul>
 
-### Examples
-
 <p>Files are stored in the "/archive/YYYY" folder using the "mb-YYMMDD.ans" file name format.</p>
+
+### Examples
 
 <p>Example 1: mb-160630.ans (Married Bob ansi comic released on june 30, 2016).</p>
 <p>Example 2: mb-170105.ans (Married Bob ansi comic released on january 5, 2017).</p>
