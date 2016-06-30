@@ -7,8 +7,8 @@ WHAT YOU WILL FIND HERE
 <p>Married Bob comic files in .ANS format optmized to be displayed on Bulletin Board Systems.</p>
 
 DISPLAY INSTRUCTIONS
-<p>Married Bob ansi comic files are in a vertical grid format with 03 boxes/squares containing the artwork, without any "pause codes".
-In order to provide a better experience for BBS users, we recommend Sysops to add at least 3 or 4 "pause codes" while displaying the file, according to the respective max. lines per screen limit of the BBS software being used.</p>
+<p>Married Bob ansi comic files are in a vertical grid format with 03 boxes/squares containing the artwork, without any "pause codes".</p>
+<p>In order to provide a better experience for BBS users, we recommend Sysops to add at least 3 or 4 "pause codes" while displaying the file, according to the respective max. lines per screen limit of the BBS software being used.</p>
 
 FILE AND CONTENT SPECIFICATIONS
 <ul>
@@ -27,11 +27,11 @@ FILE AND CONTENT SPECIFICATIONS
 <p>Example 3: mb-082720.ans (Married Bob ansi comic released on august 27, 2020).</p>
 
 CONTENT LICENSE AGREEMENT
-<p>Things you're not allowed to do:
-You're not allowed to edit or modify the content (except for the addition of the above mentioned "pause codes").
-You're not allowed to use the content for commercial purposes.
+<p>Things you're not allowed to do:</p>
+<p>You're not allowed to edit or modify the content (except for the addition of the above mentioned "pause codes").</p>
+<p>You're not allowed to use the content for commercial purposes.</p>
 
-Things you're allowed to do:
-You're allowed to display and distribute the content on Bulletin Board Systems.
-You're allowed to display the content on websites (include a link to http://marriedbob.tumblr.com if you do that).
-You're allowed to have fun and enjoy life!</p>
+<p>Things you're allowed to do:</p>
+<p>You're allowed to display and distribute the content on Bulletin Board Systems.</p>
+<p>You're allowed to display the content on websites (include a link to http://marriedbob.tumblr.com if you do that).</p>
+<p>You're allowed to have fun and enjoy life!</p>
