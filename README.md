@@ -1,2 +1,44 @@
 # married-bob-ansi-art-comic
-File repository for the optimized version of Married Bob web comic (http://marriedbob.tumblr.com) for Bulletin Board System (BBS).
+
+ABOUT THIS PROJECT
+File repository for the optimized version of Married Bob web comic (http://marriedbob.tumblr.com) for Bulletin Board System (BBS) in .ANS file format. The file repository is updated weekly (sometimes more frequently than that) with new comics.
+
+WHAT YOU WILL FIND HERE
+Married Bob comic files in .ANS format optmized to be displayed on Bulletin Board Systems.
+
+ABOUT MARRIED BOB WEB COMIC
+Short stories telling the adventures and struggles of Bob as a married man. 
+Started in june 2016 with art & story by Luciano Ayres and published on http://marriedbob.tumblr.com .
+Follow Married Bob on Facebook: http://facebook.com/marriedbob
+
+DISPLAY INSTRUCTIONS
+Married Bob ansi comic files are in a vertical grid format with 03 boxes/squares containing the artwork, without any "pause codes".
+In order to provide a better experience for BBS users, we recommend Sysops to add at least 3 or 4 "pause codes" while displaying the file, according to the respective max. lines per screen limit of the BBS software being used.
+
+FILE AND CONTENT SPECIFICATIONS
+Format: .ANS
+Colors: Default ANSi color palette
+Width: 79 columns
+Height: 95 lines
+
+Files are named using the "mb-MMDDAA.ans" format.
+
+Example 1:
+mb-060116.ans (Married Bob ansi comic released on june 30, 2016).
+
+Example 2:
+mb-010517.ans (Married Bob ansi comic released on january 5, 2017).
+
+Example 3:
+mb-082720.ans (Married Bob ansi comic released on august 27, 2020).
+
+CONTENT LICENSE AGREEMENT
+
+Things you're not allowed to do:
+You're not allowed to edit or modify the content (except for the addition of the above mentioned "pause codes").
+You're not allowed to use the content for commercial purposes.
+
+Things you're allowed to do:
+You're allowed to display and distribute the content on Bulletin Board Systems.
+You're allowed to display the content on websites (include a link to http://marriedbob.tumblr.com if you do that).
+You're allowed to have fun and enjoy life!
