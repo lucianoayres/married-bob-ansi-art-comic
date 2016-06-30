@@ -6,17 +6,11 @@ ABOUT THIS PROJECT
 WHAT YOU WILL FIND HERE
 <p>Married Bob comic files in .ANS format optmized to be displayed on Bulletin Board Systems.</p>
 
-ABOUT MARRIED BOB WEB COMIC
-<p>Short stories telling the adventures and struggles of Bob as a married man. 
-Started in june 2016 with art & story by Luciano Ayres and published on http://marriedbob.tumblr.com .
-Follow Married Bob on Facebook: http://facebook.com/marriedbob</p>
-
 DISPLAY INSTRUCTIONS
 <p>Married Bob ansi comic files are in a vertical grid format with 03 boxes/squares containing the artwork, without any "pause codes".
 In order to provide a better experience for BBS users, we recommend Sysops to add at least 3 or 4 "pause codes" while displaying the file, according to the respective max. lines per screen limit of the BBS software being used.</p>
 
 FILE AND CONTENT SPECIFICATIONS
-<p>
 <ul>
 <li>Format: .ANS</li>
 <li>Colors: Default ANSi color palette</li>
@@ -24,16 +18,13 @@ FILE AND CONTENT SPECIFICATIONS
 <li>Height: 95 lines</li>
 <ul>
 
-Files are named using the "mb-MMDDAA.ans" format.
+<p>Files are named using the "mb-MMDDAA.ans" format.</p>
 
-Example 1:
-mb-060116.ans (Married Bob ansi comic released on june 30, 2016).
+<p>Example 1: mb-060116.ans (Married Bob ansi comic released on june 30, 2016).</p>
 
-Example 2:
-mb-010517.ans (Married Bob ansi comic released on january 5, 2017).
+<p>Example 2: mb-010517.ans (Married Bob ansi comic released on january 5, 2017).</p>
 
-Example 3:
-mb-082720.ans (Married Bob ansi comic released on august 27, 2020).</p>
+<p>Example 3: mb-082720.ans (Married Bob ansi comic released on august 27, 2020).</p>
 
 CONTENT LICENSE AGREEMENT
 <p>Things you're not allowed to do:
