@@ -24,11 +24,11 @@
 
 ### Examples
 
-<p>Files are stored in the "/archive/YYYY" folder using the "mb-MMDDYY.ans" file name format.</p>
+<p>Files are stored in the "/archive/YYYY" folder using the "mb-YYMMDD.ans" file name format.</p>
 
-<p>Example 1: mb-063016.ans (Married Bob ansi comic released on june 30, 2016).</p>
-<p>Example 2: mb-010517.ans (Married Bob ansi comic released on january 5, 2017).</p>
-<p>Example 3: mb-082720.ans (Married Bob ansi comic released on august 27, 2020).</p>
+<p>Example 1: mb-160630.ans (Married Bob ansi comic released on june 30, 2016).</p>
+<p>Example 2: mb-170105.ans (Married Bob ansi comic released on january 5, 2017).</p>
+<p>Example 3: mb-200827.ans (Married Bob ansi comic released on august 27, 2020).</p>
 
 ## Content License Agreement
 
