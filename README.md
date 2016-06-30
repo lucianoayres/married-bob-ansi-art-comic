@@ -7,8 +7,7 @@ WHAT YOU WILL FIND HERE
 <p>Married Bob comic files in .ANS format optmized to be displayed on Bulletin Board Systems.</p>
 
 DISPLAY INSTRUCTIONS
-<p>Married Bob ansi comic files are in a vertical grid format with 03 boxes/squares containing the artwork, without any "pause codes".</p>
-<p>In order to provide a better experience for BBS users, we recommend Sysops to add at least 3 or 4 "pause codes" while displaying the file, according to the respective max. lines per screen limit of the BBS software being used.</p>
+<p>Married Bob ansi comic files are in a vertical grid format with 03 boxes/squares containing the artwork, without any "pause codes". In order to provide a better experience for BBS users, we recommend Sysops to add at least 3 or 4 "pause codes" while displaying the file, according to the respective max. lines per screen limit of the BBS software being used.</p>
 
 FILE AND CONTENT SPECIFICATIONS
 <ul>
