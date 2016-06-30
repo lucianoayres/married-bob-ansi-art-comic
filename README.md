@@ -28,10 +28,10 @@ FILE AND CONTENT SPECIFICATIONS
 
 CONTENT LICENSE AGREEMENT
 <p>Things you're not allowed to do:</p>
-<p>You're not allowed to edit or modify the content (except for the addition of the above mentioned "pause codes").</p>
-<p>You're not allowed to use the content for commercial purposes.</p>
+<ul><li>You're not allowed to edit or modify the content (except for the addition of the above mentioned "pause codes").</li>
+<li>You're not allowed to use the content for commercial purposes.</li></ul>
 
 <p>Things you're allowed to do:</p>
-<p>You're allowed to display and distribute the content on Bulletin Board Systems.</p>
-<p>You're allowed to display the content on websites (include a link to http://marriedbob.tumblr.com if you do that).</p>
-<p>You're allowed to have fun and enjoy life!</p>
+<ul><li>You're allowed to display and distribute the content on Bulletin Board Systems.</li>
+<li>You're allowed to display the content on websites (include a link to http://marriedbob.tumblr.com if you do that).</li>
+<li>You're allowed to have fun and enjoy life! :]</li></ul>
