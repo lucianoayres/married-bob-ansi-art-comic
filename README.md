@@ -14,7 +14,7 @@ FILE AND CONTENT SPECIFICATIONS
 <li>Format: .ANS</li>
 <li>Colors: Default ANSi color palette</li>
 <li>Width: 79 columns</li>
-<li>Height: 95 lines</li>
+<li>Height: 93 lines</li>
 </ul>
 
 <p>Files are stored in the "/ARCHIVE/YYYY" folder using the "mb-MMDDAA.ans" file name format.</p>
