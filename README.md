@@ -16,7 +16,7 @@ FILE AND CONTENT SPECIFICATIONS
 <li>Colors: Default ANSi color palette</li>
 <li>Width: 79 columns</li>
 <li>Height: 95 lines</li>
-<ul>
+</ul>
 
 <p>Files are named using the "mb-MMDDAA.ans" format.</p>
 
