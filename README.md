@@ -16,10 +16,13 @@ DISPLAY INSTRUCTIONS
 In order to provide a better experience for BBS users, we recommend Sysops to add at least 3 or 4 "pause codes" while displaying the file, according to the respective max. lines per screen limit of the BBS software being used.</p>
 
 FILE AND CONTENT SPECIFICATIONS
-<p>Format: .ANS
-Colors: Default ANSi color palette
-Width: 79 columns
-Height: 95 lines
+<p>
+<ul>
+<li>Format: .ANS</li>
+<li>Colors: Default ANSi color palette</li>
+<li>Width: 79 columns</li>
+<li>Height: 95 lines</li>
+<ul>
 
 Files are named using the "mb-MMDDAA.ans" format.
 
