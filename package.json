@@ -1,0 +1,13 @@
+{
+  "name": "married-bob-ansi-art-comic",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Married Bob web comic (http://marriedbob.tumblr.com) for Bulletin Board System (BBS) in .ANS file format",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracker1/married-bob-ansi-art-comic.git"
+  },
+  "author": "Luciano Ayres <lucianofarias@gmail.com>",
+  "license": "CC-BY-NC-ND-4.0",
+  "homepage": "http://marriedbob.tumblr.com"
+}

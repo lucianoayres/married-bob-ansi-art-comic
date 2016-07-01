@@ -30,7 +30,16 @@
 <p>Example 2: mb-170105.ans (Married Bob ansi comic released on january 5, 2017).</p>
 <p>Example 3: mb-200827.ans (Married Bob ansi comic released on august 27, 2020).</p>
 
+## Downloads
+
+To automate your updates, you can download the current
+[index.yaml](https://raw.githubusercontent.com/lucianoayres/married-bob-ansi-art-comic/master/archive/index.yaml)
+in order to facilitate updates.
+
+
 ## Content License Agreement
+
+[Creative Commons by-nc-nd@4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 <p>Things you're not allowed to do:</p>
 <ul><li>You're not allowed to edit or modify the content (except for the addition of the above mentioned "pause codes").</li>
@@ -38,5 +47,5 @@
 
 <p>Things you're allowed to do:</p>
 <ul><li>You're allowed to display and distribute the content on Bulletin Board Systems.</li>
-<li>You're allowed to display the content on websites (include a link to http://marriedbob.tumblr.com if you do that).</li>
+<li>You're allowed to display the content on websites (Please, include a link to http://marriedbob.tumblr.com if you do).</li>
 <li>You're allowed to have fun and enjoy life! :]</li></ul>
