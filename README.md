@@ -36,6 +36,9 @@ To automate your updates, you can download the current
 [index.yaml](https://raw.githubusercontent.com/lucianoayres/married-bob-ansi-art-comic/master/archive/index.yaml)
 in order to facilitate updates.
 
+## Contact and Inquiries
+
+E-mail: luciano@blocktroncis.org
 
 ## Content License Agreement
 
