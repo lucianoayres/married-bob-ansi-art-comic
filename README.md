@@ -33,7 +33,7 @@
 ## Downloads
 
 To automate your updates, you can download the current
-[index.yaml](https://raw.githubusercontent.com/lucianoayres/married-bob-ansi-art-comic/master/archive/index.yaml), located in the "archive" folder, in order to facilitate updates.
+[index.yaml](https://raw.githubusercontent.com/lucianoayres/married-bob-ansi-art-comic/master/archive/index.yaml), located in the ["archive"](https://github.com/lucianoayres/married-bob-ansi-art-comic/tree/master/archive) folder, in order to facilitate updates.
 
 ## Content License Agreement
 
