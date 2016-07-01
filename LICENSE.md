@@ -1,4 +1,4 @@
-Copyright (c) Luciano Ayres <lucianofarias@gmail.com>
+Copyright (c) Luciano Ayres <luciano@blocktronics.org>
 
 ## Creative Commons
 
