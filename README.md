@@ -1,7 +1,6 @@
 # Married Bob ANSi Art Comic
 ![Married Bob](https://github.com/lucianoayres/married-bob-ansi-art-comic/blob/master/Married_Bob.png)
 
-## About this Project
 <p>File repository for the optimized version of [![Married Bob](http://marriedbob.tumblr.com)] web comic  for Bulletin Board System (BBS) in .ANS file format. The file repository is updated weekly (sometimes more frequently than that) with new comics.</p>
 
 ## What You Will Find Here
@@ -35,6 +34,10 @@
 
 To automate your updates, you can download the current
 [index.yaml](https://raw.githubusercontent.com/lucianoayres/married-bob-ansi-art-comic/master/archive/index.yaml), located in the ["archive"](https://github.com/lucianoayres/married-bob-ansi-art-comic/tree/master/archive) folder, in order to facilitate updates.
+
+## Related Projects
+[Married Bob Fetcher](https://github.com/NuSkooler/enigma-bbs-married_bob_evt) by [NuSkooler](https://github.com/NuSkooler)
+A Married Bob fetcher event mod for ENiGMA½ BBS.
 
 ## Content License Agreement
 
