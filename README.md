@@ -1,6 +1,8 @@
 # Married Bob ANSi Art Comic
 ![Married Bob](https://github.com/lucianoayres/married-bob-ansi-art-comic/blob/master/Married_Bob.png)
 
+## About
+
 <p>File repository for the optimized version of [Married Bob](http://marriedbob.tumblr.com) web comic  for Bulletin Board System (BBS) in .ANS file format. The file repository is updated weekly (sometimes more frequently than that) with new comics.</p>
 
 ## What You Will Find Here
