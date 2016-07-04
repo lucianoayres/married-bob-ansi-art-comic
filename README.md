@@ -36,8 +36,8 @@ To automate your updates, you can download the current
 [index.yaml](https://raw.githubusercontent.com/lucianoayres/married-bob-ansi-art-comic/master/archive/index.yaml), located in the ["archive"](https://github.com/lucianoayres/married-bob-ansi-art-comic/tree/master/archive) folder, in order to facilitate updates.
 
 ## Related Projects
-[Married Bob Fetcher](https://github.com/NuSkooler/enigma-bbs-married_bob_evt) by [NuSkooler](https://github.com/NuSkooler)
-A Married Bob fetcher event mod for ENiGMA½ BBS.
+<p>[Married Bob Fetcher](https://github.com/NuSkooler/enigma-bbs-married_bob_evt) by [NuSkooler](https://github.com/NuSkooler)</p>
+<p>A Married Bob fetcher event mod for ENiGMA½ BBS.</p>
 
 ## Content License Agreement
 
