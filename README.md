@@ -49,7 +49,7 @@ To automate your updates, you can download the current
 
 <p>Things you're allowed to do:</p>
 <ul><li>You're allowed to display and distribute the content on Bulletin Board Systems.</li>
-<li>You're allowed to display the content on websites (Please, include a link to http://marriedbob.tumblr.com if you do).</li>
+<li>You're allowed to display the content on websites (Please include a link to http://marriedbob.tumblr.com if you do).</li>
 <li>You're allowed to have fun and enjoy life! :]</li></ul>
 
 ## Contact and Inquiries
