@@ -1,7 +1,7 @@
 # Married Bob ANSi Art Comic
 ![Married Bob](https://github.com/lucianoayres/married-bob-ansi-art-comic/blob/master/Married_Bob.png)
 
-<p>File repository for the optimized version of Married Bob web comic (http://marriedbob.tumblr.com) for Bulletin Board System (BBS) in .ANS file format. The file repository is updated weekly (sometimes more frequently than that) with new comics.</p>
+File repository for the optimized version of Married Bob web comic (http://marriedbob.tumblr.com) for Bulletin Board System (BBS) in .ANS file format. The file repository is updated weekly (sometimes more frequently than that) with new comics.
 
 ## What You Will Find Here
 <p>Married Bob comic files in .ANS format optmized to be displayed on Bulletin Board Systems.</p>
@@ -26,9 +26,9 @@
 
 ### Examples
 
-<p>Example 1: mb-160630.ans (Married Bob ansi comic released on june 30, 2016).</p>
-<p>Example 2: mb-170105.ans (Married Bob ansi comic released on january 5, 2017).</p>
-<p>Example 3: mb-200827.ans (Married Bob ansi comic released on august 27, 2020).</p>
+<p>Example 1: <strong>mb-160630.ans</strong> (Married Bob ansi comic released on june 30, 2016).</p>
+<p>Example 2: <strong>mb-170105.ans</strong> (Married Bob ansi comic released on january 5, 2017).</p>
+<p>Example 3: <strong>mb-200827.ans</strong> (Married Bob ansi comic released on august 27, 2020).</p>
 
 ## Downloads
 
@@ -36,7 +36,7 @@ To automate your updates, you can download the current
 [index.yaml](https://raw.githubusercontent.com/lucianoayres/married-bob-ansi-art-comic/master/archive/index.yaml), located in the ["archive"](https://github.com/lucianoayres/married-bob-ansi-art-comic/tree/master/archive) folder, in order to facilitate updates.
 
 ## Related Projects
-<p>[Married Bob Fetcher](https://github.com/NuSkooler/enigma-bbs-married_bob_evt) by [NuSkooler](https://github.com/NuSkooler)</p>
+[Married Bob Fetcher](https://github.com/NuSkooler/enigma-bbs-married_bob_evt) by [NuSkooler](https://github.com/NuSkooler)
 <p>A Married Bob fetcher event mod for ENiGMA½ BBS.</p>
 
 ## Content License Agreement
