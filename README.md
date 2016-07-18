@@ -7,7 +7,7 @@ File repository for the optimized version of [Married Bob](http://marriedbob.tum
 <p>Married Bob comic files in .ANS format optmized to be displayed on Bulletin Board Systems.</p>
 
 ## Support this Project
-<p>Honestly, this project is a labour of love and I have no idea how much to ask you for, but is a gift of $5 something you'd be able to consider? Feel free to donate any amount. Thank you! :]</p>
+<p>Married Bob comic is a labour of love. Make a donation to support this project! Thank you! :]</p>
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B5LCXHC3ERT48)
 
